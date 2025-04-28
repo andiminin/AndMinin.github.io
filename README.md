@@ -3,7 +3,7 @@
 **Coordinadora de Software | Analista Sr & Arquitecta de Soluciones**  
 
 🔹 Gestión y coordinación de proyectos tecnológicos con un enfoque estratégico y técnico.  
-🔹 Definición de productos en sectores como videojuegos, alimentación y comercio.  
+🔹 Definición de productos en sectores como videojuegos, alimentación y comercio. 
 🔹 Arquitectura de software, optimización de procesos y liderazgo de equipos.  
 🔹 Conexión entre visión técnica y estrategia de negocio para impulsar el éxito de los proyectos.  
 
