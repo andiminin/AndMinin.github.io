@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-27T21:05:35-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">AndMinin</title><subtitle>Coordinadora de Software | Analista Sr &amp; Arquitecta de Soluciones</subtitle><author><name>AndMinin</name></author><entry><title type="html">Liderando la Puesta a Punto de BetLine: Un Desafío Técnico y de Gestión en Entornos Escalables</title><link href="http://localhost:4000/arquitectura-software,/gesti%C3%B3n-proyectos,/backend,/escalabilidad/2025/02/24/technical-it-challenge.html" rel="alternate" type="text/html" title="Liderando la Puesta a Punto de BetLine: Un Desafío Técnico y de Gestión en Entornos Escalables" /><published>2025-02-24T00:00:00-03:00</published><updated>2025-02-24T00:00:00-03:00</updated><id>http://localhost:4000/arquitectura-software,/gesti%C3%B3n-proyectos,/backend,/escalabilidad/2025/02/24/technical-it-challenge</id><content type="html" xml:base="http://localhost:4000/arquitectura-software,/gesti%C3%B3n-proyectos,/backend,/escalabilidad/2025/02/24/technical-it-challenge.html"><![CDATA[<h2 id="contexto-del-proyecto">Contexto del Proyecto</h2>
+
+<p>El desafío en BetLine fue un <strong>proyecto de puesta a punto con fecha de entrega inamovible</strong>, lo que implicó un enfoque estratégico en <strong>gestión, diseño de arquitectura y desarrollo</strong> para cumplir con las expectativas sin comprometer la calidad.</p>
+
+<h3 id="equipo-y-metodología"><strong>Equipo y Metodología</strong></h3>
+<ul>
+  <li><strong>Equipo:</strong> 6 desarrolladores fullstack.</li>
+  <li><strong>Plan de trabajo:</strong>
+    <ul>
+      <li>Sprints de 2 semanas.</li>
+      <li>Primera semana: desarrollos no desplegables.</li>
+      <li>Segunda semana: entrega con despliegue.</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="desafíos-técnicos-y-soluciones"><strong>Desafíos técnicos y soluciones</strong></h4>
+
+<h3 id="1-escalabilidad-y-multiprovincia"><strong>1. Escalabilidad y Multiprovincia</strong></h3>
+<p><strong>Problema:</strong> Los cambios en la estructura de datos impactaban la escalabilidad en múltiples provincias.<br />
+<strong>Solución:</strong></p>
+<ul>
+  <li>Se adelantó el esfuerzo de desarrollo para ampliar los tiempos de prueba.</li>
+  <li>Se creó una tabla de parametrización por provincia para condicionar los componentes a utilizar.</li>
+</ul>
+
+<h3 id="2-integración-con-sistema-de-medios-digitales"><strong>2. Integración con Sistema de Medios Digitales</strong></h3>
+<p><strong>Desafío:</strong> Incorporación de MODO como medio de pago.<br />
+<strong>Solución:</strong></p>
+<ul>
+  <li>La integración resultó intuitiva, lo que facilitó su implementación.</li>
+</ul>
+
+<h3 id="3-navegación-sin-login-y-simplificación-del-registro"><strong>3. Navegación sin Login y Simplificación del Registro</strong></h3>
+<p><strong>Problema:</strong> Se requería habilitar navegación sin login solo en una provincia y simplificar el registro, reduciendo datos ingresados.<br />
+<strong>Solución:</strong></p>
+<ul>
+  <li>Se condicionaron endpoints sin afectar la fecha de entrega.</li>
+  <li>Se preparó una optimización futura con una tabla de configuración por provincia.</li>
+</ul>
+
+<h3 id="4-rediseño-de-estilos-por-provincia"><strong>4. Rediseño de Estilos por Provincia</strong></h3>
+<p><strong>Solución:</strong></p>
+<ul>
+  <li>Uso de archivos <code class="language-plaintext highlighter-rouge">.js</code> con constantes de theming y variables dinámicas.</li>
+  <li>Documentación clara para futuras modificaciones.</li>
+</ul>
+
+<h3 id="5-solicitud-de-retiro-por-transferencia"><strong>5. Solicitud de Retiro por Transferencia</strong></h3>
+<p><strong>Desafío:</strong> Incorporar una funcionalidad manual para operadores.<br />
+<strong>Solución:</strong></p>
+<ul>
+  <li>Implementación con JWT para autenticación del servicio.</li>
+  <li>Proceso manual para gestionar las transferencias con un administrador.</li>
+</ul>
+
+<h3 id="6-bonificaciones-y-plan-de-fidelización"><strong>6. Bonificaciones y Plan de Fidelización</strong></h3>
+<p><strong>Solución:</strong></p>
+<ul>
+  <li>Se parametrizó la lógica con esquemas flexibles para definir distintos tipos de bonificaciones (registro, incentivo, retención, premios).</li>
+  <li>Diseño escalable por provincia.</li>
+</ul>
+
+<h3 id="7-reportes-y-métricas-de-negocio"><strong>7. Reportes y Métricas de Negocio</strong></h3>
+<p><strong>Solución:</strong></p>
+<ul>
+  <li>Desarrollo de reportes con <strong>PostgreSQL</strong>.</li>
+  <li>Consultas SQL reflejadas en un dashboard de operaciones.</li>
+</ul>
+
+<h2 id="conclusiones-y-aprendizajes"><strong>Conclusiones y Aprendizajes</strong></h2>
+<p>Este proyecto no solo me permitió reforzar mis habilidades en <strong>arquitectura de software y gestión de proyectos</strong>, sino que también representó un <strong>desafío en la toma de decisiones estratégicas</strong> bajo condiciones de entrega rígidas.<br />
+La planificación temprana de mitigación de riesgos, la modularidad en los cambios y la documentación clara fueron claves para lograr una entrega exitosa.</p>
+
+<hr />
+
+<p>📌 <strong>¿Quieres saber más sobre mi experiencia en arquitectura de software y gestión de equipos técnicos? Conectemos en LinkedIn.</strong></p>]]></content><author><name>AndMinin</name></author><category term="arquitectura-software," /><category term="gestión-proyectos," /><category term="backend," /><category term="escalabilidad" /><category term="nodejs" /><category term="java" /><category term="arquitectura" /><category term="gestión" /><category term="integración" /><category term="postgres" /><category term="jwt" /><summary type="html"><![CDATA[Contexto del Proyecto]]></summary></entry><entry><title type="html">De Developer a Arquitecta de Software: Un Viaje Técnico</title><link href="http://localhost:4000/carrera/2025/02/23/dev-to-architect.html" rel="alternate" type="text/html" title="De Developer a Arquitecta de Software: Un Viaje Técnico" /><published>2025-02-23T00:00:00-03:00</published><updated>2025-02-23T00:00:00-03:00</updated><id>http://localhost:4000/carrera/2025/02/23/dev-to-architect</id><content type="html" xml:base="http://localhost:4000/carrera/2025/02/23/dev-to-architect.html"><![CDATA[<p>A lo largo de mi carrera, he tenido la oportunidad de crecer y evolucionar en el mundo de la tecnología, comenzando como Developer, pasando por referente de front-end, y actualmente como Coordinadora de Software. Cada etapa me ha dado nuevas herramientas y habilidades, pero el próximo paso es uno que he estado esperando con ansias: el rol de Arquitecta de Software.</p>
+
+<p>En mi último proyecto, he comenzado a tomar decisiones clave sobre el diseño y la modificación de un sistema complejo. Este desafío me ha permitido aplicar mi conocimiento técnico para mejorar la arquitectura existente, siempre con un enfoque en la escalabilidad, rendimiento y sostenibilidad del software. Algunas de las áreas clave que he abordado incluyen:</p>
+
+<ul>
+  <li><strong>Evaluación de la arquitectura actual:</strong> Analizar el estado del sistema, identificando cuellos de botella y puntos débiles que puedan afectar el rendimiento.</li>
+  <li><strong>Diseño de nuevas soluciones:</strong> Implementar patrones de diseño y estrategias que optimicen la estructura y mejoren la experiencia del usuario final.</li>
+  <li><strong>Toma de decisiones técnicas:</strong> Evaluar diferentes tecnologías y herramientas, eligiendo las más adecuadas para el proyecto.</li>
+  <li><strong>Optimización del código y despliegues:</strong> Garantizar que el código sea limpio, eficiente y fácil de mantener.</li>
+</ul>
+
+<p>Mi <strong>expertise técnico en backend</strong> está particularmente centrado en <strong>Node.js</strong>, pero tengo la capacidad de analizar, identificar y definir soluciones óptimas y escalables en <strong>otras tecnologías backend como Java y Spring Boot</strong>. Esto me permite abordar diversos proyectos y adaptarme a diferentes requerimientos tecnológicos, siempre buscando las soluciones más eficientes y adecuadas para cada caso.</p>
+
+<p>A medida que continúo con este proyecto, mi objetivo es seguir desarrollando mis habilidades como arquitecta de software, aprendiendo y aplicando nuevos enfoques y tecnologías para diseñar soluciones robustas que soporten el crecimiento de las aplicaciones y negocios a largo plazo.</p>
+
+<p>Este es solo el comienzo de un viaje hacia la arquitectura de software, pero estoy emocionada por lo que vendrá y por cómo este rol me permitirá combinar mis conocimientos técnicos con mis habilidades en gestión de proyectos y equipos.</p>]]></content><author><name>AndMinin</name></author><category term="carrera" /><summary type="html"><![CDATA[A lo largo de mi carrera, he tenido la oportunidad de crecer y evolucionar en el mundo de la tecnología, comenzando como Developer, pasando por referente de front-end, y actualmente como Coordinadora de Software. Cada etapa me ha dado nuevas herramientas y habilidades, pero el próximo paso es uno que he estado esperando con ansias: el rol de Arquitecta de Software.]]></summary></entry></feed>

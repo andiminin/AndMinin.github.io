@@ -1,4 +1,10 @@
-# ✨ [Andre Minin]
+---
+layout: page
+title: Mi Evolución
+permalink: /about/
+---
+
+# ✨ Andre Minin
 
 **Coordinadora de Software | Analista Sr & Arquitecta de Soluciones**  
 
